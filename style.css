@@ -31,7 +31,7 @@ header {
     letter-spacing: 2px;
 }
 
-.logo img {
+.logo-img {
     width: 5px;           /* Adjust width & height to resize your logo */
     height: 5px;          /* Keep width and height equal for a perfect circle */
     border-radius: 50%;    /* Makes the rectangle a perfect circle */
