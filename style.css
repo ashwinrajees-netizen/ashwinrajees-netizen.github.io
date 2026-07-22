@@ -32,8 +32,8 @@ header {
 }
 
 .logo img {
-    width: 50px;           /* Adjust width & height to resize your logo */
-    height: 50px;          /* Keep width and height equal for a perfect circle */
+    width: 5px;           /* Adjust width & height to resize your logo */
+    height: 5px;          /* Keep width and height equal for a perfect circle */
     border-radius: 50%;    /* Makes the rectangle a perfect circle */
     object-fit: cover;     /* Ensures the image fills the circle without stretching */
     display: block;
